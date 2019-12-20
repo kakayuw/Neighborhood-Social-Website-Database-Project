@@ -1,0 +1,39 @@
+  // for card
+  .text {
+    font-size: 14px;
+  }
+
+  .item {
+    margin-bottom: 18px;
+  }
+
+  .clearfix:before,
+  .clearfix:after {
+    display: table;
+    content: "";
+  }
+  .clearfix:after {
+    clear: both
+  }
+
+  .box-card {
+    width: 600px;
+  }
+
+  html{
+    overflow:hidden
+  }
+  // popover map container
+  // .map-container-7{
+  //   overflow:show;
+  //   padding-bottom:16.25%;
+  //   position:relative;
+  //   height:0;
+  //   }
+  //   .map-container-7 iframe{
+  //   left:0;
+  //   top:0;
+  //   height:100%;
+  //   width:100%;
+  //   position:absolute;
+  //   }
