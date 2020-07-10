@@ -3,9 +3,9 @@ This project is the final project of `Principle of Database`. This project allow
 
 ***
 	
-|Student|Net id|student number|Backend| Frontend| Time|
-|---|---|---|---|---|---
-|Hang Yu|hy1746|N11150159|PHP(Laravel)| Vue.js | 12/15/2019
+|Student|Backend| Frontend| Time|
+|---|---|---|---
+|Hang Yu|PHP(Laravel)| Vue.js | 12/15/2019
 
     
 ****
